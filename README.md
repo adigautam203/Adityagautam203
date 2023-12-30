@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Adityagautam203
-- 👀 I’m interested in web development
+- 👋 Hi, I’m Aditya Gautam
+- 👀 I’m interested in development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Full Stack Web Development
 - 📫 How to reach me mail me on adigautam203@gmail.com
